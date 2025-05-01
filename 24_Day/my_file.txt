@@ -1,4 +1,0 @@
-Hi, My name is Gouresh
-I am 18 years old
-I like python
-New text.
